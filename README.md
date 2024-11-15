@@ -70,12 +70,11 @@ linker
         * execute *GetObjectData.cpp*
         * input：image file
     * output：json file
-        * <img src=".\readmeImages\object.png" alt="object" style="zoom:33%;" />
+        * <img src=".\readmeImages\object.png" alt="object" style="zoom:20%;" />
     
 * ### main program
     * execute Main.cpp
     * input： json files of *canvas shape* & *objects*
-    * operation(keyboard button)：
     * image shape cloud
         * just execute the program.
     * dynamic shape cloud
